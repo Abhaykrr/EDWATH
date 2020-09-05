@@ -1,0 +1,14 @@
+Question 1->Rotate a linked list after position
+1 2 3 4 5 
+2 
+rotate after 2
+op- 3 4 5 1 2
+Hint-convert in circular linked list
+
+Question 2.Delete nodes having greater value on right 
+8                    -length
+12 15 10 11 5 6 2 3  -input
+15 11 6 3            -output
+Hint-reverse ll and arrange in assending order
+
+
