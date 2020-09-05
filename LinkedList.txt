@@ -11,4 +11,4 @@ Question 2.Delete nodes having greater value on right
 15 11 6 3            -output
 Hint-reverse ll and arrange in assending order
 
-
+Git branchs
